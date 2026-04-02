@@ -1,0 +1,4 @@
+[
+  "test_planner.py::test_main_menu_exit",
+  "test_planner.py::test_schedule_meeting"
+]
