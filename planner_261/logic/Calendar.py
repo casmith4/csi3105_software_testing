@@ -1,4 +1,4 @@
-from logic.ConflictException import ConflictsException
+from planner_261.logic.ConflictException import ConflictsException
 
 
 class Calendar:
